@@ -1,0 +1,10 @@
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\bin\Debug\dental payment.exe.config
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\obj\Debug\dental_payment.Form1.resources
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\obj\Debug\dental_payment.Resources.resources
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\obj\Debug\dental payment.vbproj.GenerateResource.Cache
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\bin\Debug\dental payment.exe
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\bin\Debug\dental payment.pdb
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\bin\Debug\dental payment.xml
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\obj\Debug\dental payment.exe
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\obj\Debug\dental payment.xml
+c:\users\phuong\documents\visual studio 2012\Projects\dental payment\dental payment\obj\Debug\dental payment.pdb
